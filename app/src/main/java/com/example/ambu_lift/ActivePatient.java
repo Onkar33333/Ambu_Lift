@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
 public class ActivePatient extends AppCompatActivity {
     ListView activepai;
-    Button rem,select,pic;
+
     ArrayList<String> myArraylist=new ArrayList<>();
     DatabaseReference reference;
     String uid;
